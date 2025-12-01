@@ -3,14 +3,15 @@
 Repository for Advent of Code solutions.
 
 ## Structure
-- Each day is organized in its own subdirectory (e.g., `2025/Day1/`).
-- Each subdirectory contains problem descriptions, input files, solutions, and a README for that day.
+- Each contender is listed under their own subdirectory (e.g., `MarcusHurt/`).
+- Each contender's directory contains their solutions, organized by year and day.
 
-## Years
-- [2025](2025/README.md)
+## Contenders
+- [Marcus Hurt](MarcusHurt/README.md)
 
-## Contributor
-- Marcus Hurt (mdevhurt@gmail.com)
+## Leaderboard
+
+[View the private leaderboard](https://adventofcode.com/2025/leaderboard/private/view/5296094?view_key=c3099341)
 
 ---
-For details and instructions for each day, see the corresponding README in the subdirectory.
+For details and instructions for each contender and year, see the corresponding README in the subdirectory.

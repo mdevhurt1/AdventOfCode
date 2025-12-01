@@ -1,7 +1,7 @@
-# Advent of Code 2025 - Day 1
+# Advent of Code 2025 - Day 1 (Marcus Hurt)
 
 ## Overview
-This folder contains solutions for Day 1 of Advent of Code 2025.
+This folder contains solutions for Day 1 of Advent of Code 2025 by Marcus Hurt.
 
 - `problem1.py`: Solves Part 1, finding how many times the dial points at 0 after each rotation.
 - `problem2.py`: Solves Part 2, counting every click that causes the dial to point at 0 during all rotations.

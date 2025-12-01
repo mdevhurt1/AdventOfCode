@@ -1,6 +1,6 @@
 # Advent of Code 2025
 
-Solutions for the Advent of Code 2025 competition year.
+Solutions for the Advent of Code 2025 by Marcus Hurt.
 
 ## Days
 - [Day 1](Day1/README.md)
