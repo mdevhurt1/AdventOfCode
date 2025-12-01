@@ -11,7 +11,7 @@ Repository for Advent of Code solutions.
 
 ## Leaderboard
 
-[View the private leaderboard](https://adventofcode.com/2025/leaderboard/private/view/5296094?view_key=c3099341)
+[View the private leaderboard](https://adventofcode.com/2025/leaderboard/private/view/669416?view_key=510b1b27)
 
 ---
 For details and instructions for each contender and year, see the corresponding README in the subdirectory.
