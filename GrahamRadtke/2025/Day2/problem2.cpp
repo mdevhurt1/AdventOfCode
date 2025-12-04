@@ -14,7 +14,7 @@ int main()
     {
         getline(cin, end, ',');
         
-        printf("%s - %s\n", start.c_str(), end.c_str());
+        //printf("%s - %s\n", start.c_str(), end.c_str());
         
         for(long int i = stol(start); i <= stol(end); i++)
         {
@@ -43,7 +43,7 @@ int main()
                 
                 if(isRepeat && ((val.length() % k) == 0))
                 {
-                    printf("isRepeat: %d\n", i);
+                    //printf("isRepeat: %d\n", i);
                     ret += i;
                     break;
                 }

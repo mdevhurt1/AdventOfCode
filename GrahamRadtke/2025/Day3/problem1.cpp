@@ -50,7 +50,7 @@ int main()
            end--;
        }
        
-       printf("line: %d - joltage = %c%c\n", lines, *firstBest, *lastBest);
+       //printf("line: %d - joltage = %c%c\n", lines, *firstBest, *lastBest);
        
        ret += ((*firstBest - '0') * 10 + (*lastBest - '0'));
     }

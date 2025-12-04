@@ -8,6 +8,7 @@ Repository for Advent of Code solutions.
 
 ## Contenders
 - [Marcus Hurt](MarcusHurt/README.md)
+- [Graham Radtke](GrahamRadtke/README.md)
 
 ## Leaderboard
 

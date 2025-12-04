@@ -13,7 +13,7 @@ int main()
     
     while(cin >> input)
     {
-        printf("ret: %d - dial: %d - input: %s\n", ret, dial, input);
+        //printf("ret: %d - dial: %d - input: %s\n", ret, dial, input);
         
         if(input[0] == 'R')
         {

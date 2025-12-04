@@ -45,7 +45,7 @@ int main()
             prev = (curBest + 1);
         }
         
-        printf("line: %d - joltage = %s\n", lines, tmp.c_str());
+        //printf("line: %d - joltage = %s\n", lines, tmp.c_str());
         
         ret += stoull(tmp);
     }
